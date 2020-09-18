@@ -1,0 +1,5 @@
+Nessa pasta contem todas as bibliotecas,codigos e ranking do jogo!
+
+O codigo deve ser aberto pelo arquivo ".dev"
+
+OBS: O jogo foi desenvolvido para rodar em sistemas operacionais windows!
