@@ -14,7 +14,7 @@ Jogo da memoria feito em C
 
 ## 🚀 SOFTWARE
 
-- Você pode jogar contra seus amigos ou contra a maquina.
+- Você pode jogar sozinho, contra seus amigos ou contra a maquina.
 - Sistema de rank incluso.
 
 
