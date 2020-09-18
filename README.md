@@ -4,8 +4,8 @@ Status do Projeto: Em desenvolvimento :warning:
 
 Tecnologias utilizadas para esse projeto:
 
-C
-DEV-C++
+- C
+- DEV-C++
 
 ## ⚒ Descrição do Projeto  
 
@@ -20,13 +20,13 @@ Jogo da memoria feito em C
 
 ## :camera: IMAGENS
 
-Menu:
+- Menu:
 ![jogo](https://user-images.githubusercontent.com/42454309/93557571-ae4a6600-f951-11ea-828b-569c549f2a67.png)
 
-Gameplay:
+- Gameplay:
 ![jogo2](https://user-images.githubusercontent.com/42454309/93557572-aee2fc80-f951-11ea-8863-f65b013a79c0.png)
 
-Rank:
+- Rank:
 ![jogo3](https://user-images.githubusercontent.com/42454309/93557573-aee2fc80-f951-11ea-83ca-de4955c48835.png)
 
 
