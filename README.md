@@ -30,9 +30,6 @@ Jogo da memoria feito em C
 ![jogo3](https://user-images.githubusercontent.com/42454309/93557573-aee2fc80-f951-11ea-83ca-de4955c48835.png)
 
 
-Programa:
-![Sem título](https://user-images.githubusercontent.com/42454309/93553753-3b89bc80-f94a-11ea-8edc-8ed6ec6e7ab9.png)
-
 ## 📌 Autor/Contato
 
 | [<img src="https://avatars1.githubusercontent.com/u/42454309?s=460&u=b84201cfe21945a90f0c5198892d99726a63174d&v=4" width=115><br><sub>@PedroHenr1</sub>](https://github.com/PedroHenr1) |
